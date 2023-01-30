@@ -1,6 +1,6 @@
 # StartMinimized
 
-It is annoying in server that console flashing frequently because of Task Scheduler calling `cmd` periodically.
+It is annoying in server that consoles flash frequently because of Task Scheduler calling `cmd` periodically.
 
 You can only either run your batch in totally background or endure the console flashing.
 
