@@ -2,13 +2,13 @@
 
 It is annoying in server that consoles flash frequently because of Task Scheduler calling `cmd` periodically.
 
-You can only either run your batch in totally background or endure the console flashing.
+You can only either run your batch in background totally or endure the console flashing.
 
 ## Start Minimized
 
-Therefore, I should create a tiny program which starts programs with minimized Window style at the first place.
+Therefore, I would like to create a tiny program which starts programs with minimized Window style in the first place.
 
-Since programs are only minimized not hidden, I can check their healthness so easily.
+Since programs are only minimized not hidden, I can still read their console output easily.
 
 ## .NET 6
 
