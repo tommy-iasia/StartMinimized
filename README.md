@@ -28,4 +28,4 @@ Other following command line arguments are also passed down to the target progra
 WindowStyle = ProcessWindowStyle.Minimized
 ```
 
-[Program.cs](StartMinimized/Program.cs) is so short that I suggest that you should build your own version.
+[Program.cs](StartMinimized/Program.cs) is so short that I suggest you building your own version.
