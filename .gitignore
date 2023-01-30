@@ -1,4 +1,4 @@
-/StartMinimized/obj
-/StartMinimized/bin
 /.vs
+/StartMinimized/bin
+/StartMinimized/obj
 **/*.user
